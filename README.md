@@ -2,16 +2,20 @@
 vscode
  - Auto Close Tag
  - Auto Rename Tag
+ - Auto Import
+ - Auto Comlete Tag
  - Better Align
  - Better Comments
- - Bracket Pair Colrize
  - Color Highlight
+ - TODO Highlight
  - CSS Peek
+ - HTML CSS Support
+ - IntelliSense for CSS class names in HTML
+ 
  - Error Lens
  - Git Extension Pack
- - git Graph
  - Hightlight Matching Tag
- - HTML CSS Support
+ 
  - intent-rainbow
  - JavaScript ES6 code snippet
  - Log File Hightlighter
