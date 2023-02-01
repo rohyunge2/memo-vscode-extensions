@@ -55,7 +55,7 @@ ayu mirage
     },
     "betterAlign.alignAfterTypeEnter": true,
     "editor.tokenColorCustomizations": {
-        "comments" : "#58ffde"
+        "comments" : "#3DFF92"
     },
     "better-comments.tags": [    
         {
