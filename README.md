@@ -56,7 +56,7 @@ ayu mirage
         "comment": 2
     },
     "editor.tokenColorCustomizations": {
-        "comments" : "#B084EB60"
+        "comments" : "#45f9b4a9"
         // "comments" : "#3DFF92"
     },
     "better-comments.tags": [
